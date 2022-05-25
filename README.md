@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## 久野真一のページ
 
-You can use the [editor on GitHub](https://github.com/kuno-maichi/kuno-maichi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+　本職はエンジニア（＋研究ちょびっと）みたいな人間です。小説家になろうやカクヨムでラブコメ（幼馴染ジャンルメイン）で書いている零細ネット小説家です。
+ 
+- [小説家になろう著者ページ](https://mypage.syosetu.com/517252/)
+- [カクヨム著者ページ](https://kakuyomu.jp/users/kuno1234)
+- [GitHub](https://github.com/kuno-maichi)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 作品リスト（長編/完結）
 
-### Markdown
+小説家になろうとカクヨムの両方で掲載してますが、カクヨムのURLです。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [俺と彼女は恋人以上恋人未満](https://kakuyomu.jp/works/1177354054893549434)
+- [痴漢に間違われたと思ったら、再会を約束した女の子でした](https://kakuyomu.jp/works/1177354054894506650)
+- [甘えん坊幼馴染と過ごすイチャイチャ大学生活](https://kakuyomu.jp/works/1177354054895314335)
+- [2020年5月東京：僕と幼馴染は自粛生活の中で恋をした](https://kakuyomu.jp/works/1177354054896462875)
+- [幼馴染な彼女が仲人をしたがるが、僕が好きなのは彼女なので困る](https://kakuyomu.jp/works/1177354054905165531)
+- [ラーメン大好き美少女と彼女を可愛がりたい僕](https://kakuyomu.jp/works/1177354054917930305)
+- [オカンな幼馴染と内気な僕](https://kakuyomu.jp/works/1177354054894376932)
+- [幼馴染なお嫁さんと僕](https://kakuyomu.jp/works/1177354054895336463)
 
-```markdown
-Syntax highlighted code block
+## 作品リスト（長編/連載中）
 
-# Header 1
-## Header 2
-### Header 3
+- [幼馴染と話し合って恋人になってみた](https://kakuyomu.jp/works/16816700426494895322)
+- [研究者な俺と幼馴染が紡ぐイチャイチャ研究生活](https://kakuyomu.jp/works/1177354054910421247)
+- [俺は二人と付き合っているけど、二股じゃない。](https://kakuyomu.jp/works/16816700427375557689)
 
-- Bulleted
-- List
+## 短編リスト
 
-1. Numbered
-2. List
+短編は既に百数十編あるので、全部は整理できてませんm(__)m。その内もう少し見やすいように整理したいと思います……。
 
-**Bold** and _Italic_ and `Code` text
+- [高校生主人公短編集](https://kakuyomu.jp/users/kuno1234/collections/16816452219597913990)
+- [大学生主人公短編集](https://kakuyomu.jp/users/kuno1234/collections/16816452219597836210)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuno-maichi/kuno-maichi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
